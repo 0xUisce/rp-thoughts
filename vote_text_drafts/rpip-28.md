@@ -15,7 +15,7 @@ RPIP-28 proposes an additional method of creating a new minipool by depositing E
 ### Rationale
 It is currently possible to create a new node to deposit a minipool. In other words, this feature does _not_ change the ability for a Node Operator to create a new minipool - they'll be able to create one for the same amount of ETH and RPL.
 
-This change instaed makes the process more convenient. A handful of folks have said they would have created more minipool(s) if they could've added them to their existing node while being under the minimum.
+This change instead makes the process more convenient. A handful of folks have said they would have created more minipool(s) if they could've added them to their existing node while being under the minimum.
 
 This should help us provide more rETH supply, with no significant trade-off.
 
